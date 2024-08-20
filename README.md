@@ -1,8 +1,4 @@
-Here's a `README.md` file for your GitHub repository based on the project requirements and the provided project report:
-
----
-
-# Large-Scale Computing for Data Analytics: Convolutional Neural Network Project
+# Convolutional Neural Network Project
 
 ## Project Overview
 
