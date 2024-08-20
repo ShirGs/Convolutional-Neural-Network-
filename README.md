@@ -34,10 +34,7 @@ In the final part, transfer learning using a pre-trained VGG16 model was applied
 
 ## Repository Structure
 
-- `part1_cnn_six_class.ipynb`: Jupyter notebook containing the code and analysis for Part 1 of the project.
-- `part2_cnn_four_and_imbalanced.ipynb`: Jupyter notebook with code for developing CNN models for the four-class and imbalanced datasets.
-- `part3_transfer_learning_class_weighting.ipynb`: Jupyter notebook focusing on transfer learning and class weighting to address class imbalance.
-- `report.pdf`: The project report providing detailed analysis, results, and conclusions.
+- `analysis.ipynb`: Jupyter notebook containing the code and analysis 
 - `README.md`: This file, providing an overview of the project.
 
 ## How to Run the Project
